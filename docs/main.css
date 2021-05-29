@@ -1,0 +1,35 @@
+.bold{
+    font-weight: bold;
+}
+
+.myBorder{
+    height: 35px;
+    width: 100%;
+}
+
+.myTop{
+    padding-top: 25px;
+}
+
+.last-border{
+    height: 40px;
+}
+
+.myBottom{
+    padding-bottom: 25px;
+}
+
+.profExperience{
+    font-weight: bold; padding-bottom: 5px; padding-top: 5px;
+}
+
+.download-btn{
+    color: white; font-weight: bold;
+}
+.download-btn:hover{
+    color: dodgerblue;
+}
+
+.header-icons{
+    padding-top: 10px; padding-bottom: 10px;
+}
